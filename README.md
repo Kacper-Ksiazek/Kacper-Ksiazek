@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/isBAen6.jpg" />
+  <img src="assets/poema_del_mar.jpg" />
 </div>
 
 <br/>
